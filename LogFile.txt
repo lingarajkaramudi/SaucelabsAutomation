@@ -1,0 +1,98 @@
+29 May 2021 16:09:17  INFO logger - --------------------------------------
+29 May 2021 16:50:06  INFO logger - --------------------------------------
+29 May 2021 17:26:52  INFO logger - --------------------------------------
+29 May 2021 17:27:42  INFO logger - Android driver created
+29 May 2021 17:35:47  INFO logger - --------------------------------------
+29 May 2021 17:41:00  INFO logger - Android driver created
+29 May 2021 17:42:09  INFO logger - --------------------------------------
+29 May 2021 17:42:49  INFO logger - --------------------------------------
+29 May 2021 18:03:44  INFO logger - Android driver created
+29 May 2021 18:04:01  INFO logger - --------------------------------------
+29 May 2021 18:04:31  INFO logger - Android driver created
+29 May 2021 19:35:40  INFO logger - --------------------------------------
+29 May 2021 19:36:08  INFO logger - Android driver created
+29 May 2021 19:36:16  INFO logger - ClassName :cucumberIntegrationTests.screens.android.ScreenObjects
+29 May 2021 19:36:16  INFO logger - MethodName :findElement
+29 May 2021 19:36:16  INFO logger - Exception :Element not foundBy.AccessibilityId: test-CHECKOUT
+29 May 2021 19:36:16  INFO logger - -----------------------------------------------------------------------------------
+29 May 2021 19:43:26  INFO logger - --------------------------------------
+29 May 2021 19:43:50  INFO logger - Android driver created
+29 May 2021 19:44:00  INFO logger - ClassName :cucumberIntegrationTests.screens.android.ScreenObjects
+29 May 2021 19:44:00  INFO logger - MethodName :findElement
+29 May 2021 19:44:00  INFO logger - Exception :Element not foundBy.AccessibilityId: test-First Name
+29 May 2021 19:44:00  INFO logger - -----------------------------------------------------------------------------------
+29 May 2021 19:47:37  INFO logger - --------------------------------------
+29 May 2021 19:48:04  INFO logger - Android driver created
+29 May 2021 19:56:55  INFO logger - --------------------------------------
+29 May 2021 19:57:21  INFO logger - Android driver created
+29 May 2021 19:59:32  INFO logger - --------------------------------------
+29 May 2021 19:59:53  INFO logger - Android driver created
+29 May 2021 20:01:08  INFO logger - --------------------------------------
+29 May 2021 20:01:38  INFO logger - Android driver created
+29 May 2021 20:02:50  INFO logger - --------------------------------------
+29 May 2021 20:03:16  INFO logger - Android driver created
+29 May 2021 20:04:19  INFO logger - --------------------------------------
+29 May 2021 20:04:43  INFO logger - Android driver created
+29 May 2021 20:04:50  INFO logger - ClassName :cucumberIntegrationTests.screens.android.ScreenObjects
+29 May 2021 20:04:50  INFO logger - MethodName :findElement
+29 May 2021 20:04:50  INFO logger - Exception :Element not foundBy.xpath: (//android.view.ViewGroup[@content-desc="test-ADD TO CART"])[2]
+29 May 2021 20:04:50  INFO logger - -----------------------------------------------------------------------------------
+29 May 2021 20:05:30  INFO logger - --------------------------------------
+29 May 2021 20:05:56  INFO logger - Android driver created
+29 May 2021 20:09:24  INFO logger - --------------------------------------
+29 May 2021 20:09:54  INFO logger - Android driver created
+29 May 2021 20:30:40  INFO logger - --------------------------------------
+29 May 2021 20:31:09  INFO logger - Android driver created
+29 May 2021 20:33:58  INFO logger - --------------------------------------
+29 May 2021 20:34:30  INFO logger - Android driver created
+29 May 2021 20:55:17  INFO logger - --------------------------------------
+29 May 2021 20:57:24  INFO logger - --------------------------------------
+29 May 2021 20:57:52  INFO logger - Android driver created
+29 May 2021 20:57:57  INFO logger - ClassName :cucumberIntegrationTests.screens.android.ScreenObjects
+29 May 2021 20:57:57  INFO logger - MethodName :findElement
+29 May 2021 20:57:57  INFO logger - Exception :Element not foundBy.xpath: (//android.view.ViewGroup[@content-desc="test-ADD TO CART"])[2]
+29 May 2021 20:57:57  INFO logger - -----------------------------------------------------------------------------------
+29 May 2021 20:58:25  INFO logger - --------------------------------------
+29 May 2021 20:58:51  INFO logger - Android driver created
+29 May 2021 21:05:57  INFO logger - --------------------------------------
+29 May 2021 21:06:24  INFO logger - Android driver created
+29 May 2021 21:19:12  INFO logger - --------------------------------------
+29 May 2021 21:19:41  INFO logger - Android driver created
+29 May 2021 21:20:36  INFO logger - --------------------------------------
+29 May 2021 21:21:01  INFO logger - Android driver created
+29 May 2021 21:21:34  INFO logger - --------------------------------------
+29 May 2021 21:21:59  INFO logger - Android driver created
+29 May 2021 21:22:35  INFO logger - --------------------------------------
+29 May 2021 21:23:03  INFO logger - Android driver created
+29 May 2021 21:32:29  INFO logger - --------------------------------------
+29 May 2021 21:32:56  INFO logger - Android driver created
+29 May 2021 21:37:05  INFO logger - --------------------------------------
+29 May 2021 21:37:32  INFO logger - Android driver created
+29 May 2021 23:11:12  INFO logger - --------------------------------------
+29 May 2021 23:11:49  INFO logger - Android driver created
+29 May 2021 23:17:14  INFO logger - --------------------------------------
+29 May 2021 23:17:44  INFO logger - Android driver created
+29 May 2021 23:18:33  INFO logger - --------------------------------------
+29 May 2021 23:19:01  INFO logger - Android driver created
+29 May 2021 23:20:24  INFO logger - --------------------------------------
+29 May 2021 23:20:50  INFO logger - Android driver created
+29 May 2021 23:30:36  INFO logger - --------------------------------------
+29 May 2021 23:31:04  INFO logger - Android driver created
+29 May 2021 23:36:05  INFO logger - --------------------------------------
+29 May 2021 23:36:31  INFO logger - Android driver created
+29 May 2021 23:36:38  INFO logger - ClassName :cucumberIntegrationTests.screens.android.ScreenObjects
+29 May 2021 23:36:38  INFO logger - MethodName :findElement
+29 May 2021 23:36:38  INFO logger - Exception :Element not foundBy.xpath: (//android.view.ViewGroup[@content-desc="test-ADD TO CART"])[2]
+29 May 2021 23:36:38  INFO logger - -----------------------------------------------------------------------------------
+29 May 2021 23:37:06  INFO logger - --------------------------------------
+29 May 2021 23:37:30  INFO logger - Android driver created
+29 May 2021 23:42:35  INFO logger - --------------------------------------
+29 May 2021 23:43:03  INFO logger - Android driver created
+29 May 2021 23:50:54  INFO logger - --------------------------------------
+29 May 2021 23:51:24  INFO logger - Android driver created
+30 May 2021 00:01:13  INFO logger - --------------------------------------
+30 May 2021 00:01:42  INFO logger - Android driver created
+30 May 2021 00:03:47  INFO logger - --------------------------------------
+30 May 2021 00:04:14  INFO logger - Android driver created
+30 May 2021 00:07:30  INFO logger - --------------------------------------
+30 May 2021 00:07:57  INFO logger - Android driver created
