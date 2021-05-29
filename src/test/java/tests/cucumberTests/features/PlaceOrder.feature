@@ -4,7 +4,7 @@ Feature: Login and place order
     Background: Launch the app
       Given I launch the app
 
-  Scenario Outline: User should be able to login on app with correct credentials and initial set up should be shown
+  Scenario Outline: User should be able to login on app with correct credentials and place the order and logout
     Given I am on login screen
     When I login with "<username>" and "<password>"
     And I tap on "signin" button
