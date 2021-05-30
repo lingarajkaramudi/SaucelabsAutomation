@@ -53,8 +53,7 @@ public class StepDefs {
 
     @And("^I scroll down$")
     public void scroll() throws InterruptedException {
-        // scroll down twice with each duration of 500 ms
-        screenObjects.scrollDown(2, 500);
+        screenObjects.scrollToElement(screenObjects.finishButton);
     }
 
     @And("^I am on products screen$")
